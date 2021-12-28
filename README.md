@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matse89, MAX for close ones.
+- 👀 I’m interested in sports, science, and now programing, i am having my very first steps.
+- 🌱 I’m currently learning c# and Windonws Forms.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me? You can send me an email haha or a private messagge.
